@@ -21,5 +21,8 @@
   "homepage": "https://github.com/ankurnecessary/typescript#readme",
   "devDependencies": {
     "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1"
   }
 }
