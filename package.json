@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankurnecessary/typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Ankur Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankurnecessary/typescript/issues"
+  },
+  "homepage": "https://github.com/ankurnecessary/typescript#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
