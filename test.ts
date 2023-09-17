@@ -1,3 +1,7 @@
-import * as uuid from 'uuid';
+import * as axios from 'axios';
 
-console.log(uuid());
+console.log(axios);
+
+const response = axios.default.get('', {
+
+});
